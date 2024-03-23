@@ -4,7 +4,7 @@
 
 # kikuzo
 
-### リモコン忍者kikuzoのリモコン部分を作る
+### [リモコン忍者kikuzoのリモコン部分を作る](https://makeintoshape.com/kikuzo-ir-remote/)
 
 Mar23, 2024
 
